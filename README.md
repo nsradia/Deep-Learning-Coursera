@@ -1,1 +1,1 @@
-# Deep-Learning-Coursera
+# Deep-Learning-Projects
