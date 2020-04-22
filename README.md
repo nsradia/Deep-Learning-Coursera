@@ -2,7 +2,7 @@
 
 Following are the coursers I have completed with certification on Coursera. 
 
-It's been exciting to learn the theory as well as do the hands-on coding to implement the algorithms. 
+It's been exciting to learn the theory and real fun to do the hands-on coding to implement the algorithms. 
 
 ![Neural Networks and Deep Learning](https://github.com/nsradia/Deep-Learning-Cert/blob/master/Coursera%20QUU3AP48PSDK.pdf)
 
