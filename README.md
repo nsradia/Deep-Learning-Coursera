@@ -1,8 +1,7 @@
 # Deep-Learning-Certifications
 
-Following are the coursers I have completed with certification on Coursera. 
 
-It's been exciting to brush-up the theory and real fun to implement algorithms using latest frameworks and technologies. 
+It's been exciting to brush-up the theory and real fun to implement algorithms using latest frameworks and technologies on Coursera. 
 
 ![Neural Networks and Deep Learning](https://github.com/nsradia/Deep-Learning-Cert/blob/master/Coursera%20QUU3AP48PSDK.pdf)
 
