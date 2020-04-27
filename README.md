@@ -3,6 +3,8 @@
 
 It's been exciting to brush-up the theory and real fun to implement algorithms using latest frameworks and technologies. 
 
+![Deep Learning Specialization](https://github.com/nsradia/Deep-Learning-Specialization/blob/master/Coursera%20TT7N5HXNNFUL.pdf)
+
 ![Neural Networks and Deep Learning](https://github.com/nsradia/Deep-Learning-Cert/blob/master/Coursera%20QUU3AP48PSDK.pdf)
 
 ![Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/nsradia/Deep-Learning-Cert/blob/master/Coursera%20QUU3AP48PSDK.pdf)
